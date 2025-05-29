@@ -47,4 +47,6 @@ The agent interprets the user's question, generates the corresponding pandas cod
 
 The agent makes it possible to explore and analyze data without writing any code, simply by asking questions.
 
+| Demo | Description | Link |
+|:-----|:------------|:-----|
 | LangChain CSV Agent with OpenAI | Streamlit prototype using `create_pandas_dataframe_agent` for uploading and querying CSVs. | [View Demo](https://drive.google.com/file/d/14DQc-aMyZuPqHDyI9S5ongd_6D-fPTwW/view?usp=drive_link) |
